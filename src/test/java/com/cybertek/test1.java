@@ -10,6 +10,7 @@ public class test1 {
         String abc = "dbiasusauivduasvckyvosuDVOY";
 
         System.out.println(abc);
+        System.out.println("i love my country");
 
     }
 }
